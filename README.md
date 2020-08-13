@@ -1,14 +1,14 @@
-#gob
+# gob
 
 Gob's Program from Arrested Development
 
-##Installation
+## Installation
 
 ```bash
 make && sudo make install
 ```
 
-##Usage
+## Usage
 
 ```bash
 gob
@@ -16,14 +16,14 @@ gob
 
 Choose `Y` to continue the program, choose `N` (or any other character) to quit.
 
-##Explanation
+## Explanation
 
 The program was [discovered by Michael Bluth](https://www.youtube.com/watch?v=JbnjusltDHk) on an old computer.
 
-##But
+## But
 
 Where'd the lighter fluid come from?
 
-##Acknowledgements
+## Acknowledgements
 
 Full credit to Arrested Development, Mitchell Hurwitz, Fox, and George Oscar Bluth's magical and programming prowess.
